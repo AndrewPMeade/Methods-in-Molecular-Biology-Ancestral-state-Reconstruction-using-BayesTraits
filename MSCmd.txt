@@ -1,0 +1,9 @@
+1
+2
+AddTag AncTag Sheep Goat Cow Buffalo Pronghorn 
+AddMRCA RecNode AncTag
+Restrict qGD qDG
+Prior qDG Exp 1.0
+Burnin 1000000
+Iterations 11000000
+Run

@@ -1,0 +1,6 @@
+6
+2
+SaveModels GenomeCellModel.bin
+Burnin 100000
+Iterations 1100000
+run

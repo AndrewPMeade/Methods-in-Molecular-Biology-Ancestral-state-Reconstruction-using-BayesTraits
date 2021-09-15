@@ -1,0 +1,7 @@
+7
+2
+AddTag Tag-Placenta Sloth Armadillo Anteater Hedgehog Mole Shrew Tenrecid Golden_Mole Hyrax Lo_Ear_Ele_shrew Sciurid Mouse Rat Hystricid Caviomorph Rabbit Pika Tree_Shrew Strepsirrhine Phyllostomid Free_tailed_bat False_vampire_bat Flying_Fox Rousette_Fruitbat Llama Ruminant Cat Caniform Pangolin 
+AddMRCA PlacentaBMR Tag-Placenta
+Burnin 1000000
+Iterations 11000000
+Run
