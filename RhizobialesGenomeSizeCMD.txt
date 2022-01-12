@@ -1,0 +1,8 @@
+7
+2
+AddTag Tag-Devosia Devosia_enhydra_ATCC_23634	Devosia_sp_Root105	Devosia_sp_Root436	Devosia_psychrophila_CGMCC_1_10210	Devosia_sp_LC5	Devosia_sp_Leaf420	Devosia_sp_Root685	Devosia_sp_S37
+AddMRCA DevosiaAnc Tag-Devosia
+Burnin 1000000
+Iterations 11000000
+Run
+
